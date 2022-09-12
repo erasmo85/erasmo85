@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erasmo85
 - 👀 I’m interested in Web Development and Gaming.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML and CSS and slightly diving into Python.
 - 💞️ I’m looking to collaborate on beginner projects for learning purposes and practice.
 - 📫 How to reach me --> email: mr.hyde85@gmail.com or Discord: Erasmo#1234
 
